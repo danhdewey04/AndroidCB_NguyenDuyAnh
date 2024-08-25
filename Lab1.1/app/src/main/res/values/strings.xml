@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="result">Kết quả</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="percent">%</string>
+    <string name="hint_x">Enter the first number</string>
+    <string name="hint_y">Enter the second number</string>
+</resources>
