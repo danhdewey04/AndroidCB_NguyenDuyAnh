@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linerlayout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AnimalSoundFragment"
+    android:orientation="vertical"
+    android:background="@color/purple_500"
+    android:gravity="center">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/img_penguin"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:src="@drawable/penguin"
+        />
+
+
+    <TextView
+        android:id="@+id/tv_Animal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Animal Sound"
+        android:layout_marginTop="10dp"
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        />
+
+</LinearLayout>

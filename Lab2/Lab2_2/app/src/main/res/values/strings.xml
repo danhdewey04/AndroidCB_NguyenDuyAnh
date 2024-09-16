@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Staff</string>
+    <string name="txt_name">Ali Connors</string>
+    <string name="txt_phone1">0906262004</string>
+    <string name="txt_title_mobile">Mobile</string>
+    <string name="txt_phone2">0435182210</string>
+    <string name="txt_email">aduvip123@gmail.com</string>
+</resources>

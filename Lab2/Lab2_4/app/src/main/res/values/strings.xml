@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_name">Ali Connors</string>
+    <string name="txt_phone1">0906262004</string>
+    <string name="txt_title_mobile">Mobile</string>
+    <string name="txt_phone2">0435182210</string>
+    <string name="txt_email">aduvip123@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
